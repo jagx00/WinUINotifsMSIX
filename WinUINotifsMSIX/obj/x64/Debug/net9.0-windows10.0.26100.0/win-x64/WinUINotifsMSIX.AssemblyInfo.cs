@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinUINotifsMSIX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7972d7ead7d5a4366efc23d002098bc256538c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinUINotifsMSIX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinUINotifsMSIX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -21,9 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|c:\\users\\jagx0\\source\\repos\\winui\\winuinotifsmsix\\winuinotifsmsix\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|solutionrelative:winuinotifsmsix\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C22E22D-7EC9-4A6A-36B6-085D635DB226}|..\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj|c:\\users\\jagx0\\source\\repos\\winui\\winuinotifswapp\\jstdlog\\jstdlog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,19 +43,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JStdLog.csproj",
-              "DocumentMoniker": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj",
-              "RelativeDocumentMoniker": "..\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj",
-              "ToolTip": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj",
-              "RelativeToolTip": "..\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T01:00:18.243Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

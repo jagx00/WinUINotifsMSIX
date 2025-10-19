@@ -1,0 +1,1 @@
+C:\Users\jagx0\Source\Repos\WinUI\WinUINotifsMSIX\WinUINotifsMSIX\WinUINotifsMSIX.csproj;x64

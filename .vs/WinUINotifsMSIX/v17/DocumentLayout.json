@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|c:\\users\\jagx0\\source\\repos\\winui\\winuinotifsmsix\\winuinotifsmsix\\winuinotifsmsix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|solutionrelative:winuinotifsmsix\\winuinotifsmsix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|c:\\users\\jagx0\\source\\repos\\winui\\winuinotifsmsix\\winuinotifsmsix\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|solutionrelative:winuinotifsmsix\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|c:\\users\\jagx0\\source\\repos\\winui\\winuinotifsmsix\\winuinotifsmsix\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|solutionrelative:winuinotifsmsix\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|c:\\users\\jagx0\\source\\repos\\winui\\winuinotifsmsix\\winuinotifsmsix\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|solutionrelative:winuinotifsmsix\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|c:\\users\\jagx0\\source\\repos\\winui\\winuinotifsmsix\\winuinotifsmsix\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A660AA26-C238-4CF9-91BA-37B8A56FD802}|WinUINotifsMSIX\\WinUINotifsMSIX.csproj|solutionrelative:winuinotifsmsix\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C22E22D-7EC9-4A6A-36B6-085D635DB226}|..\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj|c:\\users\\jagx0\\source\\repos\\winui\\winuinotifswapp\\jstdlog\\jstdlog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JStdLog.csproj",
+              "DocumentMoniker": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj",
+              "RelativeDocumentMoniker": "..\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj",
+              "ToolTip": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj",
+              "RelativeToolTip": "..\\WinUINotifsWapp\\JStdLog\\JStdLog.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T01:00:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\app.manifest",
+              "RelativeDocumentMoniker": "WinUINotifsMSIX\\app.manifest",
+              "ToolTip": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\app.manifest",
+              "RelativeToolTip": "WinUINotifsMSIX\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-10-19T00:56:03.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinUINotifsMSIX.csproj",
+              "DocumentMoniker": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\WinUINotifsMSIX.csproj",
+              "RelativeDocumentMoniker": "WinUINotifsMSIX\\WinUINotifsMSIX.csproj",
+              "ToolTip": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\WinUINotifsMSIX.csproj",
+              "RelativeToolTip": "WinUINotifsMSIX\\WinUINotifsMSIX.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-19T00:52:34.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WinUINotifsMSIX\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\App.xaml.cs",
+              "RelativeToolTip": "WinUINotifsMSIX\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:52:11.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WinUINotifsMSIX\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WinUINotifsMSIX\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:41:15.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "WinUINotifsMSIX\\Package.appxmanifest",
+              "ToolTip": "C:\\Users\\jagx0\\Source\\Repos\\WinUI\\WinUINotifsMSIX\\WinUINotifsMSIX\\Package.appxmanifest",
+              "RelativeToolTip": "WinUINotifsMSIX\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2025-10-19T00:40:22.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

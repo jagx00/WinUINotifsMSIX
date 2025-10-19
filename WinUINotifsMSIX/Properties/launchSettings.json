@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUINotifsMSIX (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUINotifsMSIX (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

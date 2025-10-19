@@ -3,6 +3,65 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# WinUI 3 + MSIX packaging artifacts
+AppPackages/
+BundleArtifacts/
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
+*.msixproj.user
+*.msixproj.suo
+*.msixproj.vspscc
+
+# MSIX intermediate files
+*.pri
+*.pfx
+*.cer
+*.sig
+*.appxmanifest
+*.appxrecipe
+*.appxblockmap
+*.appxmetadata/
+*.appxsym
+*.appxupload
+*.appinstaller
+*.appinstaller.xml
+*.appinstaller.json
+*.appinstaller.msix
+
+# Notification and activation metadata
+NotificationMetadata/
+ActivationLog.txt
+ToastActivationContext.json
+
+# WinUI build artifacts
+Generated Files/
+*.g.cs
+*.g.i.cs
+*.i.cs
+*.xaml.cs
+*.xaml.g.cs
+*.xaml.g.i.cs
+*.xaml.i.cs
+
+# Windows App SDK cache and layout
+WindowsAppSDK/
+*.winmd
+*.dll
+*.targets
+*.props
+
+# Visual Studio cache and layout
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+DocumentLayout.json
+
 # User-specific files
 *.rsuser
 *.suo

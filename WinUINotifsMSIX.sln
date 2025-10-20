@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUINotifsMSIX", "WinUINotifsMSIX\WinUINotifsMSIX.csproj", "{A660AA26-C238-4CF9-91BA-37B8A56FD802}"
+	ProjectSection(ProjectDependencies) = postProject
+		{44904F9E-A9A8-12C8-1871-A516FF1B96DB} = {44904F9E-A9A8-12C8-1871-A516FF1B96DB}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAGLog", "JAGLog\JAGLog.csproj", "{44904F9E-A9A8-12C8-1871-A516FF1B96DB}"
 EndProject

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUINotifsMSIX", "WinUINotifsMSIX\WinUINotifsMSIX.csproj", "{A660AA26-C238-4CF9-91BA-37B8A56FD802}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAGLog", "ClassLibrary1\JAGLog.csproj", "{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -33,6 +35,18 @@ Global
 		{A660AA26-C238-4CF9-91BA-37B8A56FD802}.Release|x86.ActiveCfg = Release|x86
 		{A660AA26-C238-4CF9-91BA-37B8A56FD802}.Release|x86.Build.0 = Release|x86
 		{A660AA26-C238-4CF9-91BA-37B8A56FD802}.Release|x86.Deploy.0 = Release|x86
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Debug|x64.Build.0 = Debug|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Debug|x86.Build.0 = Debug|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Release|ARM64.Build.0 = Release|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Release|x64.ActiveCfg = Release|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Release|x64.Build.0 = Release|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Release|x86.ActiveCfg = Release|Any CPU
+		{0B59BC89-8BA2-47DA-B53B-FCEED02C0E70}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
